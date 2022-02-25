@@ -1,0 +1,7 @@
+$maxWidth: 512px;
+
+.image {
+  max-width: $maxWidth;
+  height: $maxWidth * 0.5;
+  object-fit: cover;
+}
